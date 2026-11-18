@@ -1,7 +1,7 @@
 # Advanced-Flight-Computer
-A flight computer designed to be feature-rich and intuitive to use. Include features for dual deployment, ignition, active flight stabilisation and data logging. 
+A flight computer designed to be feature-rich and intuitive to use. Includes features for dual deployment, ignition, active flight stabilisation and data logging. 
 
-Before this, I've only made a simpler flight computer on a perfboard that does data logging and managing ignition and ejection. So this is my oppoturnity to make something more advanced on a PCB. 
+Before this, I've only made a simpler flight computer on a perfboard that does data logging and manages ignition and ejection. So this is my opportunity to make something more advanced on a 4-layer PCB. 
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/327652a7-632b-4f32-a668-7b5675ab9635" />
 
@@ -27,3 +27,5 @@ Before this, I've only made a simpler flight computer on a perfboard that does d
 <img width="767" height="1230" alt="image" src="https://github.com/user-attachments/assets/3127d87c-fc87-4fe6-9621-32988f5866db" />
 
 <img width="497" height="733" alt="image" src="https://github.com/user-attachments/assets/d7084ab8-df55-46e3-810a-98518761597b" />
+
+Designed using KiCad. PCB Image rendered in Blender.
