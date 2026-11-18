@@ -1,4 +1,4 @@
-# Advanced-Flight-Computer
+# Aries-Flight-Computer
 A flight computer designed to be feature-rich and intuitive to use. Includes features for dual deployment, ignition, active flight stabilisation and data logging. 
 
 Before this, I've only made a simpler flight computer on a perfboard that does data logging and manages ignition and ejection. So this is my opportunity to make something more advanced on a 4-layer PCB. 
